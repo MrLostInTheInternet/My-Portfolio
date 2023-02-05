@@ -22,8 +22,8 @@
 
 @media only screen and (max-width: 767px) {
     .bgimage {
-        background-size: contain;
-        height: 35vh;
+        background-size: cover;
+        height: 30vh;
     }
 }
 
