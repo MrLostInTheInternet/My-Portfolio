@@ -76,12 +76,12 @@ section {
 
 /* about section image css */
 .imageAboutPage {
-    width: 70%;
+    width: 80%;
 }
 
 /* skills section css */
 .skillsText.card {
-    height: 280px;
+    height: 300px;
     cursor: pointer;
   }
 .skillsIcon {
