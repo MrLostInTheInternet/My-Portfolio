@@ -1,9 +1,9 @@
 /* navbar text color */
 .container a{
     color: white;
-    font-size: 18px;
+    font-size: large;
     font-weight: 700;
-    z-index: 1.1;
+    z-index: 1;
 }
 
 /* display background color black on navbar scroll */
