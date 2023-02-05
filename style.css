@@ -23,7 +23,7 @@
 @media only screen and (max-width: 767px) {
     .bgimage {
         background-size: contain;
-        height: 31vh;
+        height: 35vh;
     }
 }
 
