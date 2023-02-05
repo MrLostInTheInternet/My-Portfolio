@@ -41,6 +41,10 @@
     position: relative;
 }
 
+#about {
+    color: black;
+}
+
 section {
     padding-top: 50px;
     margin-bottom: 180px;
